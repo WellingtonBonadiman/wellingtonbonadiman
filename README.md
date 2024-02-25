@@ -9,8 +9,7 @@
 
 <div>
 <a href="https://github.com/WellingtonBonadiman">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonBonadiman&show_icons=true&theme=dracula&include_all_communits=true&count_private=true"/>
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellingtonBonadiman&show_icons=true&theme=dracula&include_all_communits=true&count_private=true"/>  
 </div>
 
 ##
