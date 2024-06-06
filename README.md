@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Wellington Bonadiman 👋
 
 
-- 🔭 Atualmente trabalho com Logista / Prevenção de Perdas.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente trabalho com Logística / Prevenção de Perdas.
+- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas e Logística.
 - 😄 Pronouns: ELE / DELE
 
 ##
